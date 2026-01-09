@@ -1,9 +1,8 @@
 # Monaco Solutions
 
-We build enterprise portals and web applications for regulated industries.
+We build enterprise portals and web applications for large organizations.
 
 **Clients:** Porsche, Allianz, Munich Re  
-**Focus:** Insurance, Finance, Automotive  
 
 ---
 
@@ -13,5 +12,5 @@ Symfony · React · Drupal · Docker · Kubernetes · AWS
 
 ---
 
-🌐 [monaco-solutions.com](https://monaco-solutions.com)  
+🌐 [monaco-solutions.com](https://www.monaco-solutions.com)  
 📧 [contact@monaco-solutions.com](mailto:contact@monaco-solutions.com)
